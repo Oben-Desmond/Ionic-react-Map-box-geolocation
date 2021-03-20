@@ -1,0 +1,7 @@
+{
+  "name": "Quesers",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
