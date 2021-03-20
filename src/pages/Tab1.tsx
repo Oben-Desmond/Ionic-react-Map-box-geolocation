@@ -10,7 +10,7 @@ import ReactMapGL, {Marker, Layer}  from 'react-map-gl';
  
   
 
-let  accessToken = 'pk.eyJ1Ijoib2JlbmRlc21vbmQiLCJhIjoiY2ttYnFyNjB5MHd3OTJucWxpdXgxbWpyayJ9.fhWFfnoLa8ZMm681J7VfCw';
+let  accessToken = 'pk.eyJ1Ijoib2JlbmRlc21v*******************************;
 
 
 const Tab1: React.FC = () => {
